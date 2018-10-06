@@ -1,0 +1,36 @@
+//
+// Seed data
+// Format:
+//		<name>
+//		or
+// 		<name>:<gender>
+// 		or
+// 		<name>:<gender>-<spouse's name>
+//		assumption: same gender marriages are not allowed!
+// 		<parents>
+// 		<tab><child#1>
+// 		<tab><child#2>
+// 		and so on
+//
+King Arthur-Queen Margret
+	Bill-Flora
+		Victoire:f-Ted
+			Remus
+		Dominique:f
+		Louis
+	Charlie
+	Percy-Audrey
+		Molly:f
+		Lucy:f
+	Ronald-Helen
+		Rose:f-Malfoy
+			Draco
+			Aster:f
+		Hugo
+	Ginerva:f-Harry
+		James-Darcy
+			William
+		Albus-Alice
+			Ron
+			Ginny:f
+		Lily:f

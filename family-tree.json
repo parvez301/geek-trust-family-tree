@@ -1,0 +1,173 @@
+{
+    "name": "King Arthur",
+    "gender": "m",
+    "id": 1,
+    "spouse": {
+        "name": "Queen Margret",
+        "gender": "f",
+        "id": 2
+    },
+    "children": [
+        {
+            "name": "Bill",
+            "gender": "m",
+            "id": 3,
+            "spouse": {
+                "name": "Flora",
+                "gender": "f",
+                "id": 4
+            },
+            "children": [
+                {
+                    "name": "Victoire",
+                    "gender": "f",
+                    "id": 5,
+                    "spouse": {
+                        "name": "Ted",
+                        "gender": "m",
+                        "id": 6
+                    },
+                    "children": [
+                        {
+                            "name": "Remus",
+                            "gender": "m",
+                            "id": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "Dominique",
+                    "gender": "f",
+                    "id": 8
+                },
+                {
+                    "name": "Louis",
+                    "gender": "m",
+                    "id": 9
+                }
+            ]
+        },
+        {
+            "name": "Charlie",
+            "gender": "m",
+            "id": 10
+        },
+        {
+            "name": "Percy",
+            "gender": "m",
+            "id": 11,
+            "spouse": {
+                "name": "Audrey",
+                "gender": "f",
+                "id": 12
+            },
+            "children": [
+                {
+                    "name": "Molly",
+                    "gender": "f",
+                    "id": 13
+                },
+                {
+                    "name": "Lucy",
+                    "gender": "f",
+                    "id": 14
+                }
+            ]
+        },
+        {
+            "name": "Ronald",
+            "gender": "m",
+            "id": 15,
+            "spouse": {
+                "name": "Helen",
+                "gender": "f",
+                "id": 16
+            },
+            "children": [
+                {
+                    "name": "Rose",
+                    "gender": "f",
+                    "id": 17,
+                    "spouse": {
+                        "name": "Malfoy",
+                        "gender": "m",
+                        "id": 18
+                    },
+                    "children": [
+                        {
+                            "name": "Draco",
+                            "gender": "m",
+                            "id": 19
+                        },
+                        {
+                            "name": "Aster",
+                            "gender": "f",
+                            "id": 20
+                        }
+                    ]
+                },
+                {
+                    "name": "Hugo",
+                    "gender": "m",
+                    "id": 21
+                }
+            ]
+        },
+        {
+            "name": "Ginerva",
+            "gender": "f",
+            "id": 22,
+            "spouse": {
+                "name": "Harry",
+                "gender": "m",
+                "id": 23
+            },
+            "children": [
+                {
+                    "name": "James",
+                    "gender": "m",
+                    "id": 24,
+                    "spouse": {
+                        "name": "Darcy",
+                        "gender": "f",
+                        "id": 25
+                    },
+                    "children": [
+                        {
+                            "name": "William",
+                            "gender": "m",
+                            "id": 26
+                        }
+                    ]
+                },
+                {
+                    "name": "Albus",
+                    "gender": "m",
+                    "id": 27,
+                    "spouse": {
+                        "name": "Alice",
+                        "gender": "f",
+                        "id": 28
+                    },
+                    "children": [
+                        {
+                            "name": "Ron",
+                            "gender": "m",
+                            "id": 29
+                        },
+                        {
+                            "name": "Ginny",
+                            "gender": "f",
+                            "id": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Lily",
+                    "gender": "f",
+                    "id": 31
+                }
+            ]
+        }
+    ]
+}
